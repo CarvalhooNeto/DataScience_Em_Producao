@@ -1,1 +1,5 @@
+# Ignorar o próprio arquivo .gitignore
+.gitignore
+
+# Ignorar todos os arquivos CSV dentro da pasta Data
 Data/*.csv
